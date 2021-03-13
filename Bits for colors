@@ -1,0 +1,17 @@
+Image 
+
+
+pixels == picture element
+
+pixels == color > ??
+
+how bits reltn with color 
+
+we have colors = 2 ^ bpp (bits per pixel)
+
+to represent image with two colors we have 2 ^ 1  = 2colors
+
+similarly for rgb colors have approximately 256 colors to represent so 2 ^8 
+
+there are 8 bits per each pixel for this case.
+
