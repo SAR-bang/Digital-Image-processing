@@ -1,0 +1,13 @@
+for eg we have grey scale image so shades we have 256 or 8 bpp.
+
+now 8 *height * width 
+lets height = width = 1024
+
+
+size = 1024*1024 * 8 
+= x bits /8 = y bytes
+
+y /= 1024 (kb)
+y /= 1024 
+
+== >> 1 mega bytes
